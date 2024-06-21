@@ -1,6 +1,5 @@
-To get started - 
-
-npm install 
-npm run dev 
+To get started 
+1. npm install
+2. npm run dev 
 
 confetti onKeyDown 
